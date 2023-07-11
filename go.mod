@@ -1,3 +1,3 @@
-module github.com/smanderson/go-sandbox.git
+module github.com/smanderson/go-sandbox
 
 go 1.20
