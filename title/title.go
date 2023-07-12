@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func makeTitle(text string) {
+func MakeTitle(text string) {
 	fmt.Println("=================================")
 	fmt.Println(text)
 	fmt.Println("=================================")
